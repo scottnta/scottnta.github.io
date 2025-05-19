@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "scottnta.github.io",
+  "Id": "8f20ba8f-da18-407e-88a0-c8da1c25cd2e"
+}
